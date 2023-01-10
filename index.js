@@ -98,4 +98,4 @@ const embed = new Discord.MessageEmbed()
 message.channel.send(embed)
 }
 })
-client.login(process.env.token) 
+client.login('MTA2MjQxMTIzMzkzMzkzMDUxNw.G-poYU.h82zkPgZBsPfssafHpwmZKkT1Hb3nPN-xQ2oUM') 
